@@ -1,0 +1,49 @@
+C:\Users\Παναγιώτης Μ\Dropbox\My PC (DESKTOP-GH0QEKK)\SmartQuarantine\SmartQuarantine\bin\Debug\SmartQuarantine.exe.config
+C:\Users\Παναγιώτης Μ\Dropbox\My PC (DESKTOP-GH0QEKK)\SmartQuarantine\SmartQuarantine\bin\Debug\SmartQuarantine.exe
+C:\Users\Παναγιώτης Μ\Dropbox\My PC (DESKTOP-GH0QEKK)\SmartQuarantine\SmartQuarantine\bin\Debug\SmartQuarantine.pdb
+C:\Users\Παναγιώτης Μ\Dropbox\My PC (DESKTOP-GH0QEKK)\SmartQuarantine\SmartQuarantine\obj\Debug\SmartQuarantine.csprojAssemblyReference.cache
+C:\Users\Παναγιώτης Μ\Dropbox\My PC (DESKTOP-GH0QEKK)\SmartQuarantine\SmartQuarantine\obj\Debug\SmartQuarantine.Form1.resources
+C:\Users\Παναγιώτης Μ\Dropbox\My PC (DESKTOP-GH0QEKK)\SmartQuarantine\SmartQuarantine\obj\Debug\SmartQuarantine.Form2.resources
+C:\Users\Παναγιώτης Μ\Dropbox\My PC (DESKTOP-GH0QEKK)\SmartQuarantine\SmartQuarantine\obj\Debug\SmartQuarantine.Properties.Resources.resources
+C:\Users\Παναγιώτης Μ\Dropbox\My PC (DESKTOP-GH0QEKK)\SmartQuarantine\SmartQuarantine\obj\Debug\SmartQuarantine.csproj.GenerateResource.cache
+C:\Users\Παναγιώτης Μ\Dropbox\My PC (DESKTOP-GH0QEKK)\SmartQuarantine\SmartQuarantine\obj\Debug\SmartQuarantine.csproj.CoreCompileInputs.cache
+C:\Users\Παναγιώτης Μ\Dropbox\My PC (DESKTOP-GH0QEKK)\SmartQuarantine\SmartQuarantine\obj\Debug\SmartQuarantine.exe
+C:\Users\Παναγιώτης Μ\Dropbox\My PC (DESKTOP-GH0QEKK)\SmartQuarantine\SmartQuarantine\obj\Debug\SmartQuarantine.pdb
+C:\Users\Παναγιώτης Μ\Dropbox\My PC (DESKTOP-GH0QEKK)\SmartQuarantine\SmartQuarantine\obj\Debug\SmartQuarantine.SmartPlan.resources
+C:\Users\Παναγιώτης Μ\Dropbox\My PC (DESKTOP-GH0QEKK)\SmartQuarantine\SmartQuarantine\obj\Debug\SmartQuarantine.SmartPlan_1.resources
+C:\Users\Παναγιώτης Μ\OneDrive\SmartQuarantine\SmartQuarantine\bin\Debug\SmartQuarantine.exe.config
+C:\Users\Παναγιώτης Μ\OneDrive\SmartQuarantine\SmartQuarantine\bin\Debug\SmartQuarantine.exe
+C:\Users\Παναγιώτης Μ\OneDrive\SmartQuarantine\SmartQuarantine\bin\Debug\SmartQuarantine.pdb
+C:\Users\Παναγιώτης Μ\OneDrive\SmartQuarantine\SmartQuarantine\obj\Debug\SmartQuarantine.csprojAssemblyReference.cache
+C:\Users\Παναγιώτης Μ\OneDrive\SmartQuarantine\SmartQuarantine\obj\Debug\SmartQuarantine.SmartPlan.resources
+C:\Users\Παναγιώτης Μ\OneDrive\SmartQuarantine\SmartQuarantine\obj\Debug\SmartQuarantine.SmartPlan_1.resources
+C:\Users\Παναγιώτης Μ\OneDrive\SmartQuarantine\SmartQuarantine\obj\Debug\SmartQuarantine.Form1.resources
+C:\Users\Παναγιώτης Μ\OneDrive\SmartQuarantine\SmartQuarantine\obj\Debug\SmartQuarantine.Form2.resources
+C:\Users\Παναγιώτης Μ\OneDrive\SmartQuarantine\SmartQuarantine\obj\Debug\SmartQuarantine.Properties.Resources.resources
+C:\Users\Παναγιώτης Μ\OneDrive\SmartQuarantine\SmartQuarantine\obj\Debug\SmartQuarantine.csproj.GenerateResource.cache
+C:\Users\Παναγιώτης Μ\OneDrive\SmartQuarantine\SmartQuarantine\obj\Debug\SmartQuarantine.csproj.CoreCompileInputs.cache
+C:\Users\Παναγιώτης Μ\OneDrive\SmartQuarantine\SmartQuarantine\obj\Debug\SmartQuarantine.exe
+C:\Users\Παναγιώτης Μ\OneDrive\SmartQuarantine\SmartQuarantine\obj\Debug\SmartQuarantine.pdb
+C:\Users\Παναγιώτης Μ\OneDrive\SmartQuarantine\SmartQuarantine\obj\Debug\SmartQuarantine.OrderSystem.resources
+C:\Users\Παναγιώτης Μ\OneDrive\SmartQuarantine\SmartQuarantine\obj\Debug\SmartQuarantine.OrderSystem_1.resources
+C:\Users\Παναγιώτης Μ\OneDrive\SmartQuarantine\SmartQuarantine\obj\Debug\SmartQuarantine.OrderSystem_2.resources
+C:\Users\Παναγιώτης Μ\OneDrive\SmartQuarantine\SmartQuarantine\obj\Debug\SmartQuarantine.OrderSystem_3.resources
+C:\Users\Marios\Source\Repos\SmartQuarantine\SmartQuarantine\bin\Debug\SmartQuarantine.exe.config
+C:\Users\Marios\Source\Repos\SmartQuarantine\SmartQuarantine\bin\Debug\SmartQuarantine.exe
+C:\Users\Marios\Source\Repos\SmartQuarantine\SmartQuarantine\bin\Debug\SmartQuarantine.pdb
+C:\Users\Marios\Source\Repos\SmartQuarantine\SmartQuarantine\obj\Debug\SmartQuarantine.csprojAssemblyReference.cache
+C:\Users\Marios\Source\Repos\SmartQuarantine\SmartQuarantine\obj\Debug\SmartQuarantine.OrderSystem.resources
+C:\Users\Marios\Source\Repos\SmartQuarantine\SmartQuarantine\obj\Debug\SmartQuarantine.OrderSystem_1.resources
+C:\Users\Marios\Source\Repos\SmartQuarantine\SmartQuarantine\obj\Debug\SmartQuarantine.OrderSystem_2.resources
+C:\Users\Marios\Source\Repos\SmartQuarantine\SmartQuarantine\obj\Debug\SmartQuarantine.OrderSystem_3.resources
+C:\Users\Marios\Source\Repos\SmartQuarantine\SmartQuarantine\obj\Debug\SmartQuarantine.SmartPlan.resources
+C:\Users\Marios\Source\Repos\SmartQuarantine\SmartQuarantine\obj\Debug\SmartQuarantine.SmartPlan_1.resources
+C:\Users\Marios\Source\Repos\SmartQuarantine\SmartQuarantine\obj\Debug\SmartQuarantine.Form1.resources
+C:\Users\Marios\Source\Repos\SmartQuarantine\SmartQuarantine\obj\Debug\SmartQuarantine.Form2.resources
+C:\Users\Marios\Source\Repos\SmartQuarantine\SmartQuarantine\obj\Debug\SmartQuarantine.Properties.Resources.resources
+C:\Users\Marios\Source\Repos\SmartQuarantine\SmartQuarantine\obj\Debug\SmartQuarantine.csproj.GenerateResource.cache
+C:\Users\Marios\Source\Repos\SmartQuarantine\SmartQuarantine\obj\Debug\SmartQuarantine.exe
+C:\Users\Marios\Source\Repos\SmartQuarantine\SmartQuarantine\obj\Debug\SmartQuarantine.pdb
+C:\Users\Marios\Source\Repos\SmartQuarantine\SmartQuarantine\obj\Debug\SmartQuarantine.House.resources
+C:\Users\Marios\Source\Repos\SmartQuarantine\SmartQuarantine\obj\Debug\SmartQuarantine.Elders.resources
+C:\Users\Marios\Source\Repos\SmartQuarantine\SmartQuarantine\obj\Debug\SmartQuarantine.Elders2.resources

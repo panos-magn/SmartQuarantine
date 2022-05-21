@@ -1,0 +1,292 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="15.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <Import Project="$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props" Condition="Exists('$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props')" />
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ProjectGuid>{6F2063F7-E699-4484-A9D9-D4683013B71A}</ProjectGuid>
+    <OutputType>WinExe</OutputType>
+    <RootNamespace>SmartQuarantine</RootNamespace>
+    <AssemblyName>SmartQuarantine</AssemblyName>
+    <TargetFrameworkVersion>v4.7.2</TargetFrameworkVersion>
+    <FileAlignment>512</FileAlignment>
+    <AutoGenerateBindingRedirects>true</AutoGenerateBindingRedirects>
+    <Deterministic>true</Deterministic>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="System" />
+    <Reference Include="System.Core" />
+    <Reference Include="System.Xml.Linq" />
+    <Reference Include="System.Data.DataSetExtensions" />
+    <Reference Include="Microsoft.CSharp" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Deployment" />
+    <Reference Include="System.Drawing" />
+    <Reference Include="System.Net.Http" />
+    <Reference Include="System.Windows.Forms" />
+    <Reference Include="System.Xml" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="Elders.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Elders.Designer.cs">
+      <DependentUpon>Elders.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Elders2.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Elders2.Designer.cs">
+      <DependentUpon>Elders2.cs</DependentUpon>
+    </Compile>
+    <Compile Include="House.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="House.Designer.cs">
+      <DependentUpon>House.cs</DependentUpon>
+    </Compile>
+    <Compile Include="OrderSystem.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="OrderSystem.Designer.cs">
+      <DependentUpon>OrderSystem.cs</DependentUpon>
+    </Compile>
+    <Compile Include="OrderSystem_1.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="OrderSystem_1.Designer.cs">
+      <DependentUpon>OrderSystem_1.cs</DependentUpon>
+    </Compile>
+    <Compile Include="OrderSystem_2.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="OrderSystem_2.Designer.cs">
+      <DependentUpon>OrderSystem_2.cs</DependentUpon>
+    </Compile>
+    <Compile Include="OrderSystem_3.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="OrderSystem_3.Designer.cs">
+      <DependentUpon>OrderSystem_3.cs</DependentUpon>
+    </Compile>
+    <Compile Include="SmartPlan.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="SmartPlan.Designer.cs">
+      <DependentUpon>SmartPlan.cs</DependentUpon>
+    </Compile>
+    <Compile Include="SmartPlan_1.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="SmartPlan_1.Designer.cs">
+      <DependentUpon>SmartPlan_1.cs</DependentUpon>
+    </Compile>
+    <Compile Include="SmartQuarantine.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="SmartQuarantine.Designer.cs">
+      <DependentUpon>SmartQuarantine.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Thermometer.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include=".Designer.cs">
+      <DependentUpon>Thermometer.cs</DependentUpon>
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Program.cs" />
+    <Compile Include="Properties\AssemblyInfo.cs" />
+    <EmbeddedResource Include="Elders.resx">
+      <DependentUpon>Elders.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Elders2.resx">
+      <DependentUpon>Elders2.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="House.resx">
+      <DependentUpon>House.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="OrderSystem.resx">
+      <DependentUpon>OrderSystem.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="OrderSystem_1.resx">
+      <DependentUpon>OrderSystem_1.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="OrderSystem_2.resx">
+      <DependentUpon>OrderSystem_2.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="OrderSystem_3.resx">
+      <DependentUpon>OrderSystem_3.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="SmartPlan.resx">
+      <DependentUpon>SmartPlan.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="SmartPlan_1.resx">
+      <DependentUpon>SmartPlan_1.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="SmartQuarantine.resx">
+      <DependentUpon>SmartQuarantine.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Thermometer.resx">
+      <DependentUpon>Thermometer.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Properties\Resources.resx">
+      <Generator>ResXFileCodeGenerator</Generator>
+      <LastGenOutput>Resources.Designer.cs</LastGenOutput>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <Compile Include="Properties\Resources.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Resources.resx</DependentUpon>
+      <DesignTime>True</DesignTime>
+    </Compile>
+    <None Include="Properties\Settings.settings">
+      <Generator>SettingsSingleFileGenerator</Generator>
+      <LastGenOutput>Settings.Designer.cs</LastGenOutput>
+    </None>
+    <Compile Include="Properties\Settings.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Settings.settings</DependentUpon>
+      <DesignTimeSharedInput>True</DesignTimeSharedInput>
+    </Compile>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="App.config" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\fitagain-coffee-food.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\fitagain-coffee-food1.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\online-shopping-with-cart-idea-concept-694005434-5ab83fe50e23d900374acf1c-5c07f43746e0fb00019a26e0.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\5aa17d2c09ffcafb5e3610c8e269fb81.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\unnamed.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\tassimo.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\ellinikos-kafes.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\20180309-french-fries-vicky-wasik-15.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\xoirina-1.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\salata-tou-sef.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\xlarge_20200513102211_xiaomi_mi_10_pro_256gb_solstice_grey.jpeg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\xlarge_20200514102719_huawei_p40_pro_256gb_ice_white.jpeg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\xlarge_20210115095255_samsung_galaxy_s21_ultra_5g_512gb_phantom_silver.jpeg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\xlarge_20201016135412_apple_iphone_12_pro_512gb_silver.jpeg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\mini-metalliko-karotsi-super-market.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\off.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\on.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\plan1.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Staying-Safe-Together.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\thermometer.gif" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\house.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\device on.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\device off.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\computer on.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\computer off.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\thermo.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\wash machine on.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\wash machine off.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\google-maps-03.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\exit.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\alert.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\elders.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\doc.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\food.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\blue.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\pay.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\pay1.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\spiti.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\geroi.jpg" />
+  </ItemGroup>
+  <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
+</Project>
